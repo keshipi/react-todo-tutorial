@@ -10,11 +10,10 @@ export default class Footer extends React.Component {
       <footer style={footerStyles}>
         <div class="row">
           <div class="row">
-            <p>Copyright &copy; PerfectTodos.com</p>
+            <p>Copyright &copy; test.com</p>
           </div>
         </div>
       </footer>
     );
   }
 }
-
